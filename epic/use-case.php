@@ -7,7 +7,8 @@
 
 	<body>
 		<p>
-			Title: Purchasing products from Etsy.com</p>
+		<h1><strong> User case </strong></h1>
+			Title: Purchasing products from Etsy.com
 		<p>
 			Description: Sabrina Chavez wants to buy a Free People brand smock dress from Esty.com.</p>
 		<p>
@@ -21,7 +22,8 @@
 		</p>
 		<p> <strong>Interaction flow:</strong>
 		</p>
-		<p> <ul>
+		<p>
+			<ul>
 					<li>Enter URL or click search results in browser </li>
 					<li>Server recieves http and loads Etsy in browser on customer device </li>
 					<li>Sabrina clicks on "clothing and shoes" option</li>
@@ -36,8 +38,8 @@
 					<li> Server loads cart page</li>
 					<li>Sabrina reviews the item in her cart</li>
 					<li>Sabrina clicks button "pay with Paypal"</li>
-					<li>Server redirects Sabrina to Paypal payment page<li>
+					<li>Server redirects Sabrina to Paypal payment page</li>
 					<li>Sabrina logs into her Paypal account and follows prompts to finish payment and confirm shipping options</li>
-
+			</ul>
 		</p>
 	</body>
