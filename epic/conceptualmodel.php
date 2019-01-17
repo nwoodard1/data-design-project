@@ -38,4 +38,6 @@
 			<li>one item can have many reviews (1-n) </li>
 		</ul>
 
-		<img src="erdplus-diagram.png"
+		<img src="./erdplus-diagram.png">
+	</body>
+</html>
