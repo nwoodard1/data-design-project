@@ -9,7 +9,7 @@
 		<p>
 		<h2><strong>USER:</strong></h2>
 		<ul>
-			<li>userId</li>
+			<li>userId (Primary Key)</li>
 			<li>userEmail</li>
 			<li>userBilling</li>
 			<li>userShipping</li>
@@ -17,19 +17,19 @@
 		</ul>
 		<h2><strong>REVIEW:</strong></h2>
 		<ul>
-			<li>reviewId</li>
-			<li>reviewUserId</li>
+			<li>reviewId (Primary Key)</li>
+			<li>reviewUserId (Foreign Key)</li>
 			<li>reviewContent</li>
 			<li>reviewUploadDate</li>
-			<li>reviewItemId</li>
+			<li>reviewItemId (Foreign Key)</li>
 		</ul>
 		<h2><strong>ITEM:</strong></h2>
 		<ul>
-			<li>itemId</li>
+			<li>itemId (Primary Key)</li>
 			<li>itemDescription</li>
 			<li>itemPhoto</li>
 			<li>itemInventory</li>
-			<li>itemUserId</li>
+			<li>itemUserId (Foreign Key)</li>
 			<li>itemPrice</li>
 		</ul>
 		<h2><strong>RELATIONS:</strong></h2>
