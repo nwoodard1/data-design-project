@@ -37,3 +37,5 @@
 			<li>one user can buy and review many items (1-n)</li>
 			<li>one item can have many reviews (1-n) </li>
 		</ul>
+
+		<img src="erdplus-diagram.png"
