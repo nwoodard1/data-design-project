@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<title></title>
@@ -15,7 +15,7 @@
 			<strong>Name of User and Their Role: </strong>Sabrina Chavez, is a student at UNM and works part-time at Buffalo Exchange.
 		</p>
 		<p>
-			<strong>Usage Preconditions: </strong> Must have data or internet access via iphone or macbook pro laptop, can have an account, but is not required for purchasing.
+			<strong>Usage Preconditions: </strong> Must have data or internet access via iphone or macbook pro laptop, Paypal account required, can have an Etsy account, but is not required for purchasing.
 		</p>
 		<p>
 			<strong> Usage Postconditions:</strong> Product must not be a knock-off, is in good condition upon arrival, and must arrive in a timely manner.
