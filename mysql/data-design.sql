@@ -36,7 +36,7 @@ CREATE TABLE review(
 	reviewUploadDate DATETIME (6) NOT NULL,
 	reviewItemId BINARY (16) NOT NULL,
 	INDEX (reviewUserId, reviewItemId),
-	FOREIGN KEY (reviewUserId) REFERENCES user (userId),
+	FOREIGN KEY (reviewUserId) REFERENCES user(userId),
 	FOREIGN KEY (reviewItemId) REFERENCES item(itemId),
 	PRIMARY KEY (reviewId)
 	);
